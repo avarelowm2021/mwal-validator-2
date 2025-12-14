@@ -1,0 +1,8 @@
+{
+  "name": "mwal-validator-netlify",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "buffer": "^6.0.3"
+  }
+}
